@@ -1,0 +1,12 @@
+{
+   "action_manifest_version" : 0,
+   "alias_info" : {},
+   "app_key" : "application.generated.unity.dissertation1tooluseinvirtualreality.exe",
+   "bindings" : {},
+   "category" : "steamvr_input",
+   "controller_type" : "vive_tracker_handed",
+   "description" : "",
+   "name" : "Saved [Testing] [Dissertation #1] Tool-use in Virtual Reality configuration for Vive Tracker in Hand",
+   "options" : {},
+   "simulated_actions" : []
+}

@@ -1,0 +1,12 @@
+{
+  "task" : ["manual_reach", "landmark", "tool_reach"],
+  "stage" : ["baseline", "experimental", "post-test"],
+  "phase" : ["out", "lift", "back"],
+  "landmarkTarget" : "None",
+  "show_intro" : false,
+  "num_trials" : [18, 48, 18],
+  "start_delay": 2,
+  "instruction_delay": 10,
+  "record_data": true,
+  "eye_tracking_enabled": false
+}

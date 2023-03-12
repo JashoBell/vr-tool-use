@@ -1,0 +1,6 @@
+[submodule "Assets/Avatars/Rocketbox-Unity"]
+	path = Assets/Avatars/Rocketbox-Unity
+	url = https://github.com/jashobell/Rocketbox-Unity
+[submodule "Assets/Avatars/rocketbox-unity"]
+	path = Assets/Avatars/rocketbox-unity
+	url = https://github.com/jashobell/rocketbox-unity

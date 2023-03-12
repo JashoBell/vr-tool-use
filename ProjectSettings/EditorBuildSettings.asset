@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: a0eff564b94dfe04197a3885d5699e21
+  - enabled: 0
+    path: Assets/Scenes/CalibrationXR.unity
+    guid: 0702e4e0ff54ee14b87b6774c3b78f43
+  - enabled: 1
+    path: Assets/Scenes/participantCalibration.unity
+    guid: b0595a038d57c8a4787d493ef3afa17f
+  - enabled: 0
+    path: Assets/Scenes/noVRLab.unity
+    guid: a8313389a1fa85f49b29bc3b8a3d6de0
+  - enabled: 0
+    path: Assets/Scenes/Lab.unity
+    guid: 58f32d39448427a4b9548dd3c8004261
+  - enabled: 1
+    path: Assets/Scenes/AvatarLab.unity
+    guid: 5a2e88b63e0b23348aee4eda16f47f2e
+  - enabled: 0
+    path: Assets/UXF/Examples/3_MultiScene_FootballAndRT/OtherScenes/ShootingExample.unity
+    guid: 1d5a4e0513b6be0428267c45d923520b
+  - enabled: 0
+    path: Assets/UXF/Examples/3_MultiScene_FootballAndRT/OtherScenes/ReactionExample.unity
+    guid: 7a79c722962e7d74eb856ff31b309b87
+  m_configObjects:
+    Unity.XR.OpenVR.Settings: {fileID: 11400000, guid: 22fe203e481c30e419888a93d919dc62, type: 2}
+    com.unity.input.settings: {fileID: 11400000, guid: 4b69371277fbb174daba81e7923e499e, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 4b19e83bdbca535438d22fd106c53745, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 06dc322a1137d3d42ba9bf27b7a1dc93, type: 2}
+    xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: f425befbfc8035b408d3c0fdec49b0bc, type: 2}
