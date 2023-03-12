@@ -12,7 +12,7 @@ Custom code used in this study is licensed under the MIT license. Derivative cod
 
 ### Dependencies
 - FinalIK 2.2 [link](https://assetstore.unity.com/packages/tools/animation/final-ik-14290) - Used to implement IK for the avatar.
-- Manus Core 2.0.1 [link](https://assetstore.unity.com/packages/tools/integration/manus-core-2-0-1-181201) - Used to implement hand tracking with the Manus Quantum VR gloves.
+- Manus Core 2.0.1 & Unity Plugin [link](https://resources.manus-meta.com/downloads) - Used to implement hand tracking with the Manus Quantum VR gloves.
 - Rocketbox-Unity [link](https://www.github.com/jashobell/rocketbox-unity) - A fork of the Rocketbox avatar library with some additional features relating to using the avatars as self-avatars.
 
 # Study Flow
